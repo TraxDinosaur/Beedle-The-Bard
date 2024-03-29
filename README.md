@@ -20,7 +20,7 @@ Welcome to the Harry Potter Beedle the Bard Stories Bot! This Telegram bot allow
 
 To interact with the Harry Potter Beedle the Bard Stories Bot, follow these simple steps:
 
-1. **Start the Bot**: Begin by starting a conversation with the bot by searching for "@BeedleTheBardStoriesBot" in your Telegram app.
+1. **Start the Bot**: Begin by starting a conversation with the bot by searching for "@BeedleTheBardBot" in your Telegram app.
 
 2. **Access Stories**: Once in the chat, use the `/start` command to initiate the bot and explore the available stories.
 
