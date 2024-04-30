@@ -48,7 +48,7 @@ We welcome contributions from the community to help enhance the bot and add new 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), which means you're free to use, modify, and distribute the code for both personal and commercial purposes. However, we kindly request that you provide attribution to the original project.
+This project is licensed under the [CC BY-SA 4.0 License](LICENSE), which means you're free to use, modify, and distribute the code for both personal and commercial purposes. However, we kindly request that you provide attribution to the original project.
 
 ---
 
